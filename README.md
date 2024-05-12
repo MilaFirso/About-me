@@ -4,4 +4,4 @@
 
 Учусь в Нетологии: [https://netology.ru](mailto:https://netology.ru)
 
-Увлекаюсь кулинарией ![https://yandex.ru/images/search?pos=0&from=tabbar&img_url=https%3A%2F%2Fmir-s3-cdn-cf.behance.net%2Fproject_modules%2Fmax_3840%2F01e7d163047657.5aa426637e641.jpg&text=%D0%BA%D1%83%D0%BB%D0%B8%D0%BD%D0%B0%D1%80%D0%B8%D1%8F&rpt=simage&lr=213](https://yandex.ru/images/search?pos=0&from=tabbar&img_url=https%3A%2F%2Fmir-s3-cdn-cf.behance.net%2Fproject_modules%2Fmax_3840%2F01e7d163047657.5aa426637e641.jpg&text=%D0%BA%D1%83%D0%BB%D0%B8%D0%BD%D0%B0%D1%80%D0%B8%D1%8F&rpt=simage&lr=213)
+Увлекаюсь кулинарией ![](https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_65c23a0c69874d1277372cea_65c23a6b1985f66b7c1844e1/scale_1200)
